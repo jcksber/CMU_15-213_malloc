@@ -114,7 +114,7 @@ static int in_heap(const void *p);
 static int aligned(const void *p); 
 ``` 
 
-### My Memory Dynamnic Allocator (mmalloc)
+### My Dynamnic Memory Allocator (mmalloc)
 ```C
 /*
  * malloc - memory allocation.. allocate requested size (bytes)
